@@ -5,6 +5,7 @@ except ModuleNotFoundError:
 
 
 class Student:
+    next_id = 1
     def __init__(self, name:str, study_feild:str, faculty:str, courses:dict=None):
         self.name = name
         self.study_feild = study_feild
@@ -12,6 +13,8 @@ class Student:
         if courses is None:
             courses = {}
         self.courses = courses
+        self.id = Student.next_id
+        Student.next_id += 1
 
     @property
     def courses(self):
@@ -58,8 +61,16 @@ class Student:
             raise ValueError('Course is not added')
         self.courses[course] = grade
 
+    def __eq__(self, value):
+        if not isinstance(value, Student):
+            return False
+        return self.id == value.id
+
+    def __hash__(self):
+        return hash(self.id)
+
     def __str__(self):
         courses = []
         for course, grade in self.courses.items():
             courses.append(f"{course.name}:{grade}")
-        return f"{self.name} - {courses} - {self.study_feild} - {self.faculty} - {self.average}"
+        return f"{self.id} - {self.name} - {courses} - {self.study_feild} - {self.faculty} - {self.average}"

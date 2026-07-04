@@ -1,0 +1,1618 @@
+{
+    "next_course_id": 51,
+    "next_student_id": 101,
+    "courses": [
+        {
+            "class_name": "Theoretical_course",
+            "id": 1,
+            "name": "Theoretical_Course_001",
+            "teacher": "Teacher_001",
+            "department": "Engineering",
+            "course_type": "base",
+            "units": 2,
+            "class_times": [],
+            "class_room": "Room_001",
+            "exam_time": {
+                "day": "1405/01/01",
+                "time": "00:00"
+            },
+            "exam_room": "Exam_Room_001",
+            "prerequisite": []
+        },
+        {
+            "class_name": "Theoretical_course",
+            "id": 2,
+            "name": "Theoretical_Course_002",
+            "teacher": "Teacher_002",
+            "department": "Science",
+            "course_type": "Specialized",
+            "units": 3,
+            "class_times": [],
+            "class_room": "Room_002",
+            "exam_time": {
+                "day": "1405/01/01",
+                "time": "00:00"
+            },
+            "exam_room": "Exam_Room_002",
+            "prerequisite": []
+        },
+        {
+            "class_name": "Theoretical_course",
+            "id": 3,
+            "name": "Theoretical_Course_003",
+            "teacher": "Teacher_003",
+            "department": "Mathematics",
+            "course_type": "Specialized_optional",
+            "units": 1,
+            "class_times": [],
+            "class_room": "Room_003",
+            "exam_time": {
+                "day": "1405/01/01",
+                "time": "00:00"
+            },
+            "exam_room": "Exam_Room_003",
+            "prerequisite": []
+        },
+        {
+            "class_name": "Theoretical_course",
+            "id": 4,
+            "name": "Theoretical_Course_004",
+            "teacher": "Teacher_004",
+            "department": "Computer",
+            "course_type": "optional",
+            "units": 2,
+            "class_times": [],
+            "class_room": "Room_004",
+            "exam_time": {
+                "day": "1405/01/01",
+                "time": "00:00"
+            },
+            "exam_room": "Exam_Room_004",
+            "prerequisite": []
+        },
+        {
+            "class_name": "Theoretical_course",
+            "id": 5,
+            "name": "Theoretical_Course_005",
+            "teacher": "Teacher_005",
+            "department": "Physics",
+            "course_type": "general",
+            "units": 3,
+            "class_times": [],
+            "class_room": "Room_005",
+            "exam_time": {
+                "day": "1405/01/01",
+                "time": "00:00"
+            },
+            "exam_room": "Exam_Room_005",
+            "prerequisite": []
+        },
+        {
+            "class_name": "Theoretical_course",
+            "id": 6,
+            "name": "Theoretical_Course_006",
+            "teacher": "Teacher_006",
+            "department": "Engineering",
+            "course_type": "base",
+            "units": 1,
+            "class_times": [],
+            "class_room": "Room_006",
+            "exam_time": {
+                "day": "1405/01/01",
+                "time": "00:00"
+            },
+            "exam_room": "Exam_Room_006",
+            "prerequisite": []
+        },
+        {
+            "class_name": "Theoretical_course",
+            "id": 7,
+            "name": "Theoretical_Course_007",
+            "teacher": "Teacher_007",
+            "department": "Science",
+            "course_type": "Specialized",
+            "units": 2,
+            "class_times": [],
+            "class_room": "Room_007",
+            "exam_time": {
+                "day": "1405/01/01",
+                "time": "00:00"
+            },
+            "exam_room": "Exam_Room_007",
+            "prerequisite": []
+        },
+        {
+            "class_name": "Theoretical_course",
+            "id": 8,
+            "name": "Theoretical_Course_008",
+            "teacher": "Teacher_008",
+            "department": "Mathematics",
+            "course_type": "Specialized_optional",
+            "units": 3,
+            "class_times": [],
+            "class_room": "Room_008",
+            "exam_time": {
+                "day": "1405/01/01",
+                "time": "00:00"
+            },
+            "exam_room": "Exam_Room_008",
+            "prerequisite": []
+        },
+        {
+            "class_name": "Theoretical_course",
+            "id": 9,
+            "name": "Theoretical_Course_009",
+            "teacher": "Teacher_009",
+            "department": "Computer",
+            "course_type": "optional",
+            "units": 1,
+            "class_times": [],
+            "class_room": "Room_009",
+            "exam_time": {
+                "day": "1405/01/01",
+                "time": "00:00"
+            },
+            "exam_room": "Exam_Room_009",
+            "prerequisite": []
+        },
+        {
+            "class_name": "Theoretical_course",
+            "id": 10,
+            "name": "Theoretical_Course_010",
+            "teacher": "Teacher_010",
+            "department": "Physics",
+            "course_type": "general",
+            "units": 2,
+            "class_times": [],
+            "class_room": "Room_010",
+            "exam_time": {
+                "day": "1405/01/01",
+                "time": "00:00"
+            },
+            "exam_room": "Exam_Room_010",
+            "prerequisite": []
+        },
+        {
+            "class_name": "Theoretical_course",
+            "id": 11,
+            "name": "Theoretical_Course_011",
+            "teacher": "Teacher_011",
+            "department": "Engineering",
+            "course_type": "base",
+            "units": 3,
+            "class_times": [],
+            "class_room": "Room_011",
+            "exam_time": {
+                "day": "1405/01/01",
+                "time": "00:00"
+            },
+            "exam_room": "Exam_Room_011",
+            "prerequisite": []
+        },
+        {
+            "class_name": "Theoretical_course",
+            "id": 12,
+            "name": "Theoretical_Course_012",
+            "teacher": "Teacher_012",
+            "department": "Science",
+            "course_type": "Specialized",
+            "units": 1,
+            "class_times": [],
+            "class_room": "Room_012",
+            "exam_time": {
+                "day": "1405/01/01",
+                "time": "00:00"
+            },
+            "exam_room": "Exam_Room_012",
+            "prerequisite": []
+        },
+        {
+            "class_name": "Theoretical_course",
+            "id": 13,
+            "name": "Theoretical_Course_013",
+            "teacher": "Teacher_013",
+            "department": "Mathematics",
+            "course_type": "Specialized_optional",
+            "units": 2,
+            "class_times": [],
+            "class_room": "Room_013",
+            "exam_time": {
+                "day": "1405/01/01",
+                "time": "00:00"
+            },
+            "exam_room": "Exam_Room_013",
+            "prerequisite": []
+        },
+        {
+            "class_name": "Theoretical_course",
+            "id": 14,
+            "name": "Theoretical_Course_014",
+            "teacher": "Teacher_014",
+            "department": "Computer",
+            "course_type": "optional",
+            "units": 3,
+            "class_times": [],
+            "class_room": "Room_014",
+            "exam_time": {
+                "day": "1405/01/01",
+                "time": "00:00"
+            },
+            "exam_room": "Exam_Room_014",
+            "prerequisite": []
+        },
+        {
+            "class_name": "Theoretical_course",
+            "id": 15,
+            "name": "Theoretical_Course_015",
+            "teacher": "Teacher_015",
+            "department": "Physics",
+            "course_type": "general",
+            "units": 1,
+            "class_times": [],
+            "class_room": "Room_015",
+            "exam_time": {
+                "day": "1405/01/01",
+                "time": "00:00"
+            },
+            "exam_room": "Exam_Room_015",
+            "prerequisite": []
+        },
+        {
+            "class_name": "Theoretical_course",
+            "id": 16,
+            "name": "Theoretical_Course_016",
+            "teacher": "Teacher_016",
+            "department": "Engineering",
+            "course_type": "base",
+            "units": 2,
+            "class_times": [],
+            "class_room": "Room_016",
+            "exam_time": {
+                "day": "1405/01/01",
+                "time": "00:00"
+            },
+            "exam_room": "Exam_Room_016",
+            "prerequisite": []
+        },
+        {
+            "class_name": "Theoretical_course",
+            "id": 17,
+            "name": "Theoretical_Course_017",
+            "teacher": "Teacher_017",
+            "department": "Science",
+            "course_type": "Specialized",
+            "units": 3,
+            "class_times": [],
+            "class_room": "Room_017",
+            "exam_time": {
+                "day": "1405/01/01",
+                "time": "00:00"
+            },
+            "exam_room": "Exam_Room_017",
+            "prerequisite": []
+        },
+        {
+            "class_name": "Theoretical_course",
+            "id": 18,
+            "name": "Theoretical_Course_018",
+            "teacher": "Teacher_018",
+            "department": "Mathematics",
+            "course_type": "Specialized_optional",
+            "units": 1,
+            "class_times": [],
+            "class_room": "Room_018",
+            "exam_time": {
+                "day": "1405/01/01",
+                "time": "00:00"
+            },
+            "exam_room": "Exam_Room_018",
+            "prerequisite": []
+        },
+        {
+            "class_name": "Theoretical_course",
+            "id": 19,
+            "name": "Theoretical_Course_019",
+            "teacher": "Teacher_019",
+            "department": "Computer",
+            "course_type": "optional",
+            "units": 2,
+            "class_times": [],
+            "class_room": "Room_019",
+            "exam_time": {
+                "day": "1405/01/01",
+                "time": "00:00"
+            },
+            "exam_room": "Exam_Room_019",
+            "prerequisite": []
+        },
+        {
+            "class_name": "Theoretical_course",
+            "id": 20,
+            "name": "Theoretical_Course_020",
+            "teacher": "Teacher_020",
+            "department": "Physics",
+            "course_type": "general",
+            "units": 3,
+            "class_times": [],
+            "class_room": "Room_020",
+            "exam_time": {
+                "day": "1405/01/01",
+                "time": "00:00"
+            },
+            "exam_room": "Exam_Room_020",
+            "prerequisite": []
+        },
+        {
+            "class_name": "Theoretical_course",
+            "id": 21,
+            "name": "Theoretical_Course_021",
+            "teacher": "Teacher_021",
+            "department": "Engineering",
+            "course_type": "base",
+            "units": 1,
+            "class_times": [],
+            "class_room": "Room_021",
+            "exam_time": {
+                "day": "1405/01/01",
+                "time": "00:00"
+            },
+            "exam_room": "Exam_Room_021",
+            "prerequisite": []
+        },
+        {
+            "class_name": "Theoretical_course",
+            "id": 22,
+            "name": "Theoretical_Course_022",
+            "teacher": "Teacher_022",
+            "department": "Science",
+            "course_type": "Specialized",
+            "units": 2,
+            "class_times": [],
+            "class_room": "Room_022",
+            "exam_time": {
+                "day": "1405/01/01",
+                "time": "00:00"
+            },
+            "exam_room": "Exam_Room_022",
+            "prerequisite": []
+        },
+        {
+            "class_name": "Theoretical_course",
+            "id": 23,
+            "name": "Theoretical_Course_023",
+            "teacher": "Teacher_023",
+            "department": "Mathematics",
+            "course_type": "Specialized_optional",
+            "units": 3,
+            "class_times": [],
+            "class_room": "Room_023",
+            "exam_time": {
+                "day": "1405/01/01",
+                "time": "00:00"
+            },
+            "exam_room": "Exam_Room_023",
+            "prerequisite": []
+        },
+        {
+            "class_name": "Theoretical_course",
+            "id": 24,
+            "name": "Theoretical_Course_024",
+            "teacher": "Teacher_024",
+            "department": "Computer",
+            "course_type": "optional",
+            "units": 1,
+            "class_times": [],
+            "class_room": "Room_024",
+            "exam_time": {
+                "day": "1405/01/01",
+                "time": "00:00"
+            },
+            "exam_room": "Exam_Room_024",
+            "prerequisite": []
+        },
+        {
+            "class_name": "Theoretical_course",
+            "id": 25,
+            "name": "Theoretical_Course_025",
+            "teacher": "Teacher_025",
+            "department": "Physics",
+            "course_type": "general",
+            "units": 2,
+            "class_times": [],
+            "class_room": "Room_025",
+            "exam_time": {
+                "day": "1405/01/01",
+                "time": "00:00"
+            },
+            "exam_room": "Exam_Room_025",
+            "prerequisite": []
+        },
+        {
+            "class_name": "Practical_course",
+            "id": 26,
+            "name": "Practical_Course_026",
+            "teacher": "Teacher_026",
+            "department": "Engineering",
+            "course_type": "Laboratory",
+            "units": 1,
+            "class_times": [],
+            "class_room": "Lab_026",
+            "exam_time": {
+                "day": "1405/01/01",
+                "time": "00:00"
+            },
+            "exam_room": "Exam_Room_026",
+            "prerequisite": [],
+            "required_software": [
+                "Python"
+            ],
+            "equipment_fee": 26000
+        },
+        {
+            "class_name": "Practical_course",
+            "id": 27,
+            "name": "Practical_Course_027",
+            "teacher": "Teacher_027",
+            "department": "Science",
+            "course_type": "Laboratory",
+            "units": 2,
+            "class_times": [],
+            "class_room": "Lab_027",
+            "exam_time": {
+                "day": "1405/01/01",
+                "time": "00:00"
+            },
+            "exam_room": "Exam_Room_027",
+            "prerequisite": [],
+            "required_software": [
+                "Python"
+            ],
+            "equipment_fee": 27000
+        },
+        {
+            "class_name": "Practical_course",
+            "id": 28,
+            "name": "Practical_Course_028",
+            "teacher": "Teacher_028",
+            "department": "Mathematics",
+            "course_type": "Laboratory",
+            "units": 1,
+            "class_times": [],
+            "class_room": "Lab_028",
+            "exam_time": {
+                "day": "1405/01/01",
+                "time": "00:00"
+            },
+            "exam_room": "Exam_Room_028",
+            "prerequisite": [],
+            "required_software": [
+                "Python"
+            ],
+            "equipment_fee": 28000
+        },
+        {
+            "class_name": "Practical_course",
+            "id": 29,
+            "name": "Practical_Course_029",
+            "teacher": "Teacher_029",
+            "department": "Computer",
+            "course_type": "Laboratory",
+            "units": 2,
+            "class_times": [],
+            "class_room": "Lab_029",
+            "exam_time": {
+                "day": "1405/01/01",
+                "time": "00:00"
+            },
+            "exam_room": "Exam_Room_029",
+            "prerequisite": [],
+            "required_software": [
+                "Python"
+            ],
+            "equipment_fee": 29000
+        },
+        {
+            "class_name": "Practical_course",
+            "id": 30,
+            "name": "Practical_Course_030",
+            "teacher": "Teacher_030",
+            "department": "Physics",
+            "course_type": "Laboratory",
+            "units": 1,
+            "class_times": [],
+            "class_room": "Lab_030",
+            "exam_time": {
+                "day": "1405/01/01",
+                "time": "00:00"
+            },
+            "exam_room": "Exam_Room_030",
+            "prerequisite": [],
+            "required_software": [
+                "Python"
+            ],
+            "equipment_fee": 30000
+        },
+        {
+            "class_name": "Practical_course",
+            "id": 31,
+            "name": "Practical_Course_031",
+            "teacher": "Teacher_031",
+            "department": "Engineering",
+            "course_type": "Laboratory",
+            "units": 2,
+            "class_times": [],
+            "class_room": "Lab_031",
+            "exam_time": {
+                "day": "1405/01/01",
+                "time": "00:00"
+            },
+            "exam_room": "Exam_Room_031",
+            "prerequisite": [],
+            "required_software": [
+                "Python"
+            ],
+            "equipment_fee": 31000
+        },
+        {
+            "class_name": "Practical_course",
+            "id": 32,
+            "name": "Practical_Course_032",
+            "teacher": "Teacher_032",
+            "department": "Science",
+            "course_type": "Laboratory",
+            "units": 1,
+            "class_times": [],
+            "class_room": "Lab_032",
+            "exam_time": {
+                "day": "1405/01/01",
+                "time": "00:00"
+            },
+            "exam_room": "Exam_Room_032",
+            "prerequisite": [],
+            "required_software": [
+                "Python"
+            ],
+            "equipment_fee": 32000
+        },
+        {
+            "class_name": "Practical_course",
+            "id": 33,
+            "name": "Practical_Course_033",
+            "teacher": "Teacher_033",
+            "department": "Mathematics",
+            "course_type": "Laboratory",
+            "units": 2,
+            "class_times": [],
+            "class_room": "Lab_033",
+            "exam_time": {
+                "day": "1405/01/01",
+                "time": "00:00"
+            },
+            "exam_room": "Exam_Room_033",
+            "prerequisite": [],
+            "required_software": [
+                "Python"
+            ],
+            "equipment_fee": 33000
+        },
+        {
+            "class_name": "Practical_course",
+            "id": 34,
+            "name": "Practical_Course_034",
+            "teacher": "Teacher_034",
+            "department": "Computer",
+            "course_type": "Laboratory",
+            "units": 1,
+            "class_times": [],
+            "class_room": "Lab_034",
+            "exam_time": {
+                "day": "1405/01/01",
+                "time": "00:00"
+            },
+            "exam_room": "Exam_Room_034",
+            "prerequisite": [],
+            "required_software": [
+                "Python"
+            ],
+            "equipment_fee": 34000
+        },
+        {
+            "class_name": "Practical_course",
+            "id": 35,
+            "name": "Practical_Course_035",
+            "teacher": "Teacher_035",
+            "department": "Physics",
+            "course_type": "Laboratory",
+            "units": 2,
+            "class_times": [],
+            "class_room": "Lab_035",
+            "exam_time": {
+                "day": "1405/01/01",
+                "time": "00:00"
+            },
+            "exam_room": "Exam_Room_035",
+            "prerequisite": [],
+            "required_software": [
+                "Python"
+            ],
+            "equipment_fee": 35000
+        },
+        {
+            "class_name": "Practical_course",
+            "id": 36,
+            "name": "Practical_Course_036",
+            "teacher": "Teacher_036",
+            "department": "Engineering",
+            "course_type": "Laboratory",
+            "units": 1,
+            "class_times": [],
+            "class_room": "Lab_036",
+            "exam_time": {
+                "day": "1405/01/01",
+                "time": "00:00"
+            },
+            "exam_room": "Exam_Room_036",
+            "prerequisite": [],
+            "required_software": [
+                "Python"
+            ],
+            "equipment_fee": 36000
+        },
+        {
+            "class_name": "Practical_course",
+            "id": 37,
+            "name": "Practical_Course_037",
+            "teacher": "Teacher_037",
+            "department": "Science",
+            "course_type": "Laboratory",
+            "units": 2,
+            "class_times": [],
+            "class_room": "Lab_037",
+            "exam_time": {
+                "day": "1405/01/01",
+                "time": "00:00"
+            },
+            "exam_room": "Exam_Room_037",
+            "prerequisite": [],
+            "required_software": [
+                "Python"
+            ],
+            "equipment_fee": 37000
+        },
+        {
+            "class_name": "Practical_course",
+            "id": 38,
+            "name": "Practical_Course_038",
+            "teacher": "Teacher_038",
+            "department": "Mathematics",
+            "course_type": "Laboratory",
+            "units": 1,
+            "class_times": [],
+            "class_room": "Lab_038",
+            "exam_time": {
+                "day": "1405/01/01",
+                "time": "00:00"
+            },
+            "exam_room": "Exam_Room_038",
+            "prerequisite": [],
+            "required_software": [
+                "Python"
+            ],
+            "equipment_fee": 38000
+        },
+        {
+            "class_name": "Practical_course",
+            "id": 39,
+            "name": "Practical_Course_039",
+            "teacher": "Teacher_039",
+            "department": "Computer",
+            "course_type": "Laboratory",
+            "units": 2,
+            "class_times": [],
+            "class_room": "Lab_039",
+            "exam_time": {
+                "day": "1405/01/01",
+                "time": "00:00"
+            },
+            "exam_room": "Exam_Room_039",
+            "prerequisite": [],
+            "required_software": [
+                "Python"
+            ],
+            "equipment_fee": 39000
+        },
+        {
+            "class_name": "Practical_course",
+            "id": 40,
+            "name": "Practical_Course_040",
+            "teacher": "Teacher_040",
+            "department": "Physics",
+            "course_type": "Laboratory",
+            "units": 1,
+            "class_times": [],
+            "class_room": "Lab_040",
+            "exam_time": {
+                "day": "1405/01/01",
+                "time": "00:00"
+            },
+            "exam_room": "Exam_Room_040",
+            "prerequisite": [],
+            "required_software": [
+                "Python"
+            ],
+            "equipment_fee": 40000
+        },
+        {
+            "class_name": "Presentation_course",
+            "id": 41,
+            "name": "presentation",
+            "teacher": "Teacher_041",
+            "department": "default",
+            "course_type": "project",
+            "units": 3,
+            "class_times": [],
+            "class_room": "default",
+            "exam_time": {
+                "day": "1405/01/01",
+                "time": "00:00"
+            },
+            "exam_room": "default",
+            "prerequisite": []
+        },
+        {
+            "class_name": "Presentation_course",
+            "id": 42,
+            "name": "presentation",
+            "teacher": "Teacher_042",
+            "department": "default",
+            "course_type": "seminar",
+            "units": 1,
+            "class_times": [],
+            "class_room": "default",
+            "exam_time": {
+                "day": "1405/01/01",
+                "time": "00:00"
+            },
+            "exam_room": "default",
+            "prerequisite": []
+        },
+        {
+            "class_name": "Presentation_course",
+            "id": 43,
+            "name": "presentation",
+            "teacher": "Teacher_043",
+            "department": "default",
+            "course_type": "project",
+            "units": 2,
+            "class_times": [],
+            "class_room": "default",
+            "exam_time": {
+                "day": "1405/01/01",
+                "time": "00:00"
+            },
+            "exam_room": "default",
+            "prerequisite": []
+        },
+        {
+            "class_name": "Presentation_course",
+            "id": 44,
+            "name": "presentation",
+            "teacher": "Teacher_044",
+            "department": "default",
+            "course_type": "seminar",
+            "units": 3,
+            "class_times": [],
+            "class_room": "default",
+            "exam_time": {
+                "day": "1405/01/01",
+                "time": "00:00"
+            },
+            "exam_room": "default",
+            "prerequisite": []
+        },
+        {
+            "class_name": "Presentation_course",
+            "id": 45,
+            "name": "presentation",
+            "teacher": "Teacher_045",
+            "department": "default",
+            "course_type": "project",
+            "units": 1,
+            "class_times": [],
+            "class_room": "default",
+            "exam_time": {
+                "day": "1405/01/01",
+                "time": "00:00"
+            },
+            "exam_room": "default",
+            "prerequisite": []
+        },
+        {
+            "class_name": "Presentation_course",
+            "id": 46,
+            "name": "presentation",
+            "teacher": "Teacher_046",
+            "department": "default",
+            "course_type": "seminar",
+            "units": 2,
+            "class_times": [],
+            "class_room": "default",
+            "exam_time": {
+                "day": "1405/01/01",
+                "time": "00:00"
+            },
+            "exam_room": "default",
+            "prerequisite": []
+        },
+        {
+            "class_name": "Presentation_course",
+            "id": 47,
+            "name": "presentation",
+            "teacher": "Teacher_047",
+            "department": "default",
+            "course_type": "project",
+            "units": 3,
+            "class_times": [],
+            "class_room": "default",
+            "exam_time": {
+                "day": "1405/01/01",
+                "time": "00:00"
+            },
+            "exam_room": "default",
+            "prerequisite": []
+        },
+        {
+            "class_name": "Presentation_course",
+            "id": 48,
+            "name": "presentation",
+            "teacher": "Teacher_048",
+            "department": "default",
+            "course_type": "seminar",
+            "units": 1,
+            "class_times": [],
+            "class_room": "default",
+            "exam_time": {
+                "day": "1405/01/01",
+                "time": "00:00"
+            },
+            "exam_room": "default",
+            "prerequisite": []
+        },
+        {
+            "class_name": "Presentation_course",
+            "id": 49,
+            "name": "presentation",
+            "teacher": "Teacher_049",
+            "department": "default",
+            "course_type": "project",
+            "units": 2,
+            "class_times": [],
+            "class_room": "default",
+            "exam_time": {
+                "day": "1405/01/01",
+                "time": "00:00"
+            },
+            "exam_room": "default",
+            "prerequisite": []
+        },
+        {
+            "class_name": "Presentation_course",
+            "id": 50,
+            "name": "presentation",
+            "teacher": "Teacher_050",
+            "department": "default",
+            "course_type": "seminar",
+            "units": 3,
+            "class_times": [],
+            "class_room": "default",
+            "exam_time": {
+                "day": "1405/01/01",
+                "time": "00:00"
+            },
+            "exam_room": "default",
+            "prerequisite": []
+        }
+    ],
+    "students": [
+        {
+            "id": 1,
+            "name": "Student_001",
+            "study_feild": "Computer Engineering",
+            "faculty": "Engineering",
+            "courses": []
+        },
+        {
+            "id": 2,
+            "name": "Student_002",
+            "study_feild": "Software Engineering",
+            "faculty": "Science",
+            "courses": []
+        },
+        {
+            "id": 3,
+            "name": "Student_003",
+            "study_feild": "Data Science",
+            "faculty": "Mathematics",
+            "courses": []
+        },
+        {
+            "id": 4,
+            "name": "Student_004",
+            "study_feild": "Applied Math",
+            "faculty": "Computer",
+            "courses": []
+        },
+        {
+            "id": 5,
+            "name": "Student_005",
+            "study_feild": "Information Technology",
+            "faculty": "Physics",
+            "courses": []
+        },
+        {
+            "id": 6,
+            "name": "Student_006",
+            "study_feild": "Computer Engineering",
+            "faculty": "Engineering",
+            "courses": []
+        },
+        {
+            "id": 7,
+            "name": "Student_007",
+            "study_feild": "Software Engineering",
+            "faculty": "Science",
+            "courses": []
+        },
+        {
+            "id": 8,
+            "name": "Student_008",
+            "study_feild": "Data Science",
+            "faculty": "Mathematics",
+            "courses": []
+        },
+        {
+            "id": 9,
+            "name": "Student_009",
+            "study_feild": "Applied Math",
+            "faculty": "Computer",
+            "courses": []
+        },
+        {
+            "id": 10,
+            "name": "Student_010",
+            "study_feild": "Information Technology",
+            "faculty": "Physics",
+            "courses": []
+        },
+        {
+            "id": 11,
+            "name": "Student_011",
+            "study_feild": "Computer Engineering",
+            "faculty": "Engineering",
+            "courses": []
+        },
+        {
+            "id": 12,
+            "name": "Student_012",
+            "study_feild": "Software Engineering",
+            "faculty": "Science",
+            "courses": []
+        },
+        {
+            "id": 13,
+            "name": "Student_013",
+            "study_feild": "Data Science",
+            "faculty": "Mathematics",
+            "courses": []
+        },
+        {
+            "id": 14,
+            "name": "Student_014",
+            "study_feild": "Applied Math",
+            "faculty": "Computer",
+            "courses": []
+        },
+        {
+            "id": 15,
+            "name": "Student_015",
+            "study_feild": "Information Technology",
+            "faculty": "Physics",
+            "courses": []
+        },
+        {
+            "id": 16,
+            "name": "Student_016",
+            "study_feild": "Computer Engineering",
+            "faculty": "Engineering",
+            "courses": []
+        },
+        {
+            "id": 17,
+            "name": "Student_017",
+            "study_feild": "Software Engineering",
+            "faculty": "Science",
+            "courses": []
+        },
+        {
+            "id": 18,
+            "name": "Student_018",
+            "study_feild": "Data Science",
+            "faculty": "Mathematics",
+            "courses": []
+        },
+        {
+            "id": 19,
+            "name": "Student_019",
+            "study_feild": "Applied Math",
+            "faculty": "Computer",
+            "courses": []
+        },
+        {
+            "id": 20,
+            "name": "Student_020",
+            "study_feild": "Information Technology",
+            "faculty": "Physics",
+            "courses": []
+        },
+        {
+            "id": 21,
+            "name": "Student_021",
+            "study_feild": "Computer Engineering",
+            "faculty": "Engineering",
+            "courses": []
+        },
+        {
+            "id": 22,
+            "name": "Student_022",
+            "study_feild": "Software Engineering",
+            "faculty": "Science",
+            "courses": []
+        },
+        {
+            "id": 23,
+            "name": "Student_023",
+            "study_feild": "Data Science",
+            "faculty": "Mathematics",
+            "courses": []
+        },
+        {
+            "id": 24,
+            "name": "Student_024",
+            "study_feild": "Applied Math",
+            "faculty": "Computer",
+            "courses": []
+        },
+        {
+            "id": 25,
+            "name": "Student_025",
+            "study_feild": "Information Technology",
+            "faculty": "Physics",
+            "courses": []
+        },
+        {
+            "id": 26,
+            "name": "Student_026",
+            "study_feild": "Computer Engineering",
+            "faculty": "Engineering",
+            "courses": []
+        },
+        {
+            "id": 27,
+            "name": "Student_027",
+            "study_feild": "Software Engineering",
+            "faculty": "Science",
+            "courses": []
+        },
+        {
+            "id": 28,
+            "name": "Student_028",
+            "study_feild": "Data Science",
+            "faculty": "Mathematics",
+            "courses": []
+        },
+        {
+            "id": 29,
+            "name": "Student_029",
+            "study_feild": "Applied Math",
+            "faculty": "Computer",
+            "courses": []
+        },
+        {
+            "id": 30,
+            "name": "Student_030",
+            "study_feild": "Information Technology",
+            "faculty": "Physics",
+            "courses": []
+        },
+        {
+            "id": 31,
+            "name": "Student_031",
+            "study_feild": "Computer Engineering",
+            "faculty": "Engineering",
+            "courses": []
+        },
+        {
+            "id": 32,
+            "name": "Student_032",
+            "study_feild": "Software Engineering",
+            "faculty": "Science",
+            "courses": []
+        },
+        {
+            "id": 33,
+            "name": "Student_033",
+            "study_feild": "Data Science",
+            "faculty": "Mathematics",
+            "courses": []
+        },
+        {
+            "id": 34,
+            "name": "Student_034",
+            "study_feild": "Applied Math",
+            "faculty": "Computer",
+            "courses": []
+        },
+        {
+            "id": 35,
+            "name": "Student_035",
+            "study_feild": "Information Technology",
+            "faculty": "Physics",
+            "courses": []
+        },
+        {
+            "id": 36,
+            "name": "Student_036",
+            "study_feild": "Computer Engineering",
+            "faculty": "Engineering",
+            "courses": []
+        },
+        {
+            "id": 37,
+            "name": "Student_037",
+            "study_feild": "Software Engineering",
+            "faculty": "Science",
+            "courses": []
+        },
+        {
+            "id": 38,
+            "name": "Student_038",
+            "study_feild": "Data Science",
+            "faculty": "Mathematics",
+            "courses": []
+        },
+        {
+            "id": 39,
+            "name": "Student_039",
+            "study_feild": "Applied Math",
+            "faculty": "Computer",
+            "courses": []
+        },
+        {
+            "id": 40,
+            "name": "Student_040",
+            "study_feild": "Information Technology",
+            "faculty": "Physics",
+            "courses": []
+        },
+        {
+            "id": 41,
+            "name": "Student_041",
+            "study_feild": "Computer Engineering",
+            "faculty": "Engineering",
+            "courses": []
+        },
+        {
+            "id": 42,
+            "name": "Student_042",
+            "study_feild": "Software Engineering",
+            "faculty": "Science",
+            "courses": []
+        },
+        {
+            "id": 43,
+            "name": "Student_043",
+            "study_feild": "Data Science",
+            "faculty": "Mathematics",
+            "courses": []
+        },
+        {
+            "id": 44,
+            "name": "Student_044",
+            "study_feild": "Applied Math",
+            "faculty": "Computer",
+            "courses": []
+        },
+        {
+            "id": 45,
+            "name": "Student_045",
+            "study_feild": "Information Technology",
+            "faculty": "Physics",
+            "courses": []
+        },
+        {
+            "id": 46,
+            "name": "Student_046",
+            "study_feild": "Computer Engineering",
+            "faculty": "Engineering",
+            "courses": []
+        },
+        {
+            "id": 47,
+            "name": "Student_047",
+            "study_feild": "Software Engineering",
+            "faculty": "Science",
+            "courses": []
+        },
+        {
+            "id": 48,
+            "name": "Student_048",
+            "study_feild": "Data Science",
+            "faculty": "Mathematics",
+            "courses": []
+        },
+        {
+            "id": 49,
+            "name": "Student_049",
+            "study_feild": "Applied Math",
+            "faculty": "Computer",
+            "courses": []
+        },
+        {
+            "id": 50,
+            "name": "Student_050",
+            "study_feild": "Information Technology",
+            "faculty": "Physics",
+            "courses": []
+        },
+        {
+            "id": 51,
+            "name": "Student_051",
+            "study_feild": "Computer Engineering",
+            "faculty": "Engineering",
+            "courses": []
+        },
+        {
+            "id": 52,
+            "name": "Student_052",
+            "study_feild": "Software Engineering",
+            "faculty": "Science",
+            "courses": []
+        },
+        {
+            "id": 53,
+            "name": "Student_053",
+            "study_feild": "Data Science",
+            "faculty": "Mathematics",
+            "courses": []
+        },
+        {
+            "id": 54,
+            "name": "Student_054",
+            "study_feild": "Applied Math",
+            "faculty": "Computer",
+            "courses": []
+        },
+        {
+            "id": 55,
+            "name": "Student_055",
+            "study_feild": "Information Technology",
+            "faculty": "Physics",
+            "courses": []
+        },
+        {
+            "id": 56,
+            "name": "Student_056",
+            "study_feild": "Computer Engineering",
+            "faculty": "Engineering",
+            "courses": []
+        },
+        {
+            "id": 57,
+            "name": "Student_057",
+            "study_feild": "Software Engineering",
+            "faculty": "Science",
+            "courses": []
+        },
+        {
+            "id": 58,
+            "name": "Student_058",
+            "study_feild": "Data Science",
+            "faculty": "Mathematics",
+            "courses": []
+        },
+        {
+            "id": 59,
+            "name": "Student_059",
+            "study_feild": "Applied Math",
+            "faculty": "Computer",
+            "courses": []
+        },
+        {
+            "id": 60,
+            "name": "Student_060",
+            "study_feild": "Information Technology",
+            "faculty": "Physics",
+            "courses": []
+        },
+        {
+            "id": 61,
+            "name": "Student_061",
+            "study_feild": "Computer Engineering",
+            "faculty": "Engineering",
+            "courses": []
+        },
+        {
+            "id": 62,
+            "name": "Student_062",
+            "study_feild": "Software Engineering",
+            "faculty": "Science",
+            "courses": []
+        },
+        {
+            "id": 63,
+            "name": "Student_063",
+            "study_feild": "Data Science",
+            "faculty": "Mathematics",
+            "courses": []
+        },
+        {
+            "id": 64,
+            "name": "Student_064",
+            "study_feild": "Applied Math",
+            "faculty": "Computer",
+            "courses": []
+        },
+        {
+            "id": 65,
+            "name": "Student_065",
+            "study_feild": "Information Technology",
+            "faculty": "Physics",
+            "courses": []
+        },
+        {
+            "id": 66,
+            "name": "Student_066",
+            "study_feild": "Computer Engineering",
+            "faculty": "Engineering",
+            "courses": []
+        },
+        {
+            "id": 67,
+            "name": "Student_067",
+            "study_feild": "Software Engineering",
+            "faculty": "Science",
+            "courses": []
+        },
+        {
+            "id": 68,
+            "name": "Student_068",
+            "study_feild": "Data Science",
+            "faculty": "Mathematics",
+            "courses": []
+        },
+        {
+            "id": 69,
+            "name": "Student_069",
+            "study_feild": "Applied Math",
+            "faculty": "Computer",
+            "courses": []
+        },
+        {
+            "id": 70,
+            "name": "Student_070",
+            "study_feild": "Information Technology",
+            "faculty": "Physics",
+            "courses": []
+        },
+        {
+            "id": 71,
+            "name": "Student_071",
+            "study_feild": "Computer Engineering",
+            "faculty": "Engineering",
+            "courses": []
+        },
+        {
+            "id": 72,
+            "name": "Student_072",
+            "study_feild": "Software Engineering",
+            "faculty": "Science",
+            "courses": []
+        },
+        {
+            "id": 73,
+            "name": "Student_073",
+            "study_feild": "Data Science",
+            "faculty": "Mathematics",
+            "courses": []
+        },
+        {
+            "id": 74,
+            "name": "Student_074",
+            "study_feild": "Applied Math",
+            "faculty": "Computer",
+            "courses": []
+        },
+        {
+            "id": 75,
+            "name": "Student_075",
+            "study_feild": "Information Technology",
+            "faculty": "Physics",
+            "courses": []
+        },
+        {
+            "id": 76,
+            "name": "Student_076",
+            "study_feild": "Computer Engineering",
+            "faculty": "Engineering",
+            "courses": []
+        },
+        {
+            "id": 77,
+            "name": "Student_077",
+            "study_feild": "Software Engineering",
+            "faculty": "Science",
+            "courses": []
+        },
+        {
+            "id": 78,
+            "name": "Student_078",
+            "study_feild": "Data Science",
+            "faculty": "Mathematics",
+            "courses": []
+        },
+        {
+            "id": 79,
+            "name": "Student_079",
+            "study_feild": "Applied Math",
+            "faculty": "Computer",
+            "courses": []
+        },
+        {
+            "id": 80,
+            "name": "Student_080",
+            "study_feild": "Information Technology",
+            "faculty": "Physics",
+            "courses": []
+        },
+        {
+            "id": 81,
+            "name": "Student_081",
+            "study_feild": "Computer Engineering",
+            "faculty": "Engineering",
+            "courses": []
+        },
+        {
+            "id": 82,
+            "name": "Student_082",
+            "study_feild": "Software Engineering",
+            "faculty": "Science",
+            "courses": []
+        },
+        {
+            "id": 83,
+            "name": "Student_083",
+            "study_feild": "Data Science",
+            "faculty": "Mathematics",
+            "courses": []
+        },
+        {
+            "id": 84,
+            "name": "Student_084",
+            "study_feild": "Applied Math",
+            "faculty": "Computer",
+            "courses": []
+        },
+        {
+            "id": 85,
+            "name": "Student_085",
+            "study_feild": "Information Technology",
+            "faculty": "Physics",
+            "courses": []
+        },
+        {
+            "id": 86,
+            "name": "Student_086",
+            "study_feild": "Computer Engineering",
+            "faculty": "Engineering",
+            "courses": []
+        },
+        {
+            "id": 87,
+            "name": "Student_087",
+            "study_feild": "Software Engineering",
+            "faculty": "Science",
+            "courses": []
+        },
+        {
+            "id": 88,
+            "name": "Student_088",
+            "study_feild": "Data Science",
+            "faculty": "Mathematics",
+            "courses": []
+        },
+        {
+            "id": 89,
+            "name": "Student_089",
+            "study_feild": "Applied Math",
+            "faculty": "Computer",
+            "courses": []
+        },
+        {
+            "id": 90,
+            "name": "Student_090",
+            "study_feild": "Information Technology",
+            "faculty": "Physics",
+            "courses": []
+        },
+        {
+            "id": 91,
+            "name": "Student_091",
+            "study_feild": "Computer Engineering",
+            "faculty": "Engineering",
+            "courses": []
+        },
+        {
+            "id": 92,
+            "name": "Student_092",
+            "study_feild": "Software Engineering",
+            "faculty": "Science",
+            "courses": []
+        },
+        {
+            "id": 93,
+            "name": "Student_093",
+            "study_feild": "Data Science",
+            "faculty": "Mathematics",
+            "courses": []
+        },
+        {
+            "id": 94,
+            "name": "Student_094",
+            "study_feild": "Applied Math",
+            "faculty": "Computer",
+            "courses": []
+        },
+        {
+            "id": 95,
+            "name": "Student_095",
+            "study_feild": "Information Technology",
+            "faculty": "Physics",
+            "courses": []
+        },
+        {
+            "id": 96,
+            "name": "Student_096",
+            "study_feild": "Computer Engineering",
+            "faculty": "Engineering",
+            "courses": []
+        },
+        {
+            "id": 97,
+            "name": "Student_097",
+            "study_feild": "Software Engineering",
+            "faculty": "Science",
+            "courses": []
+        },
+        {
+            "id": 98,
+            "name": "Student_098",
+            "study_feild": "Data Science",
+            "faculty": "Mathematics",
+            "courses": []
+        },
+        {
+            "id": 99,
+            "name": "Student_099",
+            "study_feild": "Applied Math",
+            "faculty": "Computer",
+            "courses": []
+        },
+        {
+            "id": 100,
+            "name": "Student_100",
+            "study_feild": "Information Technology",
+            "faculty": "Physics",
+            "courses": []
+        }
+    ]
+}
