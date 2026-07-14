@@ -919,700 +919,2000 @@
             "name": "Student_001",
             "study_feild": "Computer Engineering",
             "faculty": "Engineering",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 10,
+                    "grade": null
+                },
+                {
+                    "course_id": 7,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 2,
             "name": "Student_002",
             "study_feild": "Software Engineering",
             "faculty": "Science",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 30,
+                    "grade": null
+                },
+                {
+                    "course_id": 40,
+                    "grade": null
+                },
+                {
+                    "course_id": 12,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 3,
             "name": "Student_003",
             "study_feild": "Data Science",
             "faculty": "Mathematics",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 15,
+                    "grade": null
+                },
+                {
+                    "course_id": 12,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 4,
             "name": "Student_004",
             "study_feild": "Applied Math",
             "faculty": "Computer",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 4,
+                    "grade": null
+                },
+                {
+                    "course_id": 48,
+                    "grade": null
+                },
+                {
+                    "course_id": 47,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 5,
             "name": "Student_005",
             "study_feild": "Information Technology",
             "faculty": "Physics",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 7,
+                    "grade": null
+                },
+                {
+                    "course_id": 19,
+                    "grade": null
+                },
+                {
+                    "course_id": 28,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 6,
             "name": "Student_006",
             "study_feild": "Computer Engineering",
             "faculty": "Engineering",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 32,
+                    "grade": null
+                },
+                {
+                    "course_id": 46,
+                    "grade": null
+                },
+                {
+                    "course_id": 5,
+                    "grade": null
+                },
+                {
+                    "course_id": 41,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 7,
             "name": "Student_007",
             "study_feild": "Software Engineering",
             "faculty": "Science",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 16,
+                    "grade": null
+                },
+                {
+                    "course_id": 38,
+                    "grade": null
+                },
+                {
+                    "course_id": 20,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 8,
             "name": "Student_008",
             "study_feild": "Data Science",
             "faculty": "Mathematics",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 20,
+                    "grade": null
+                },
+                {
+                    "course_id": 50,
+                    "grade": null
+                },
+                {
+                    "course_id": 5,
+                    "grade": null
+                },
+                {
+                    "course_id": 45,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 9,
             "name": "Student_009",
             "study_feild": "Applied Math",
             "faculty": "Computer",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 29,
+                    "grade": null
+                },
+                {
+                    "course_id": 45,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 10,
             "name": "Student_010",
             "study_feild": "Information Technology",
             "faculty": "Physics",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 5,
+                    "grade": null
+                },
+                {
+                    "course_id": 21,
+                    "grade": null
+                },
+                {
+                    "course_id": 10,
+                    "grade": null
+                },
+                {
+                    "course_id": 9,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 11,
             "name": "Student_011",
             "study_feild": "Computer Engineering",
             "faculty": "Engineering",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 49,
+                    "grade": null
+                },
+                {
+                    "course_id": 41,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 12,
             "name": "Student_012",
             "study_feild": "Software Engineering",
             "faculty": "Science",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 33,
+                    "grade": null
+                },
+                {
+                    "course_id": 20,
+                    "grade": null
+                },
+                {
+                    "course_id": 37,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 13,
             "name": "Student_013",
             "study_feild": "Data Science",
             "faculty": "Mathematics",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 36,
+                    "grade": null
+                },
+                {
+                    "course_id": 6,
+                    "grade": null
+                },
+                {
+                    "course_id": 15,
+                    "grade": null
+                },
+                {
+                    "course_id": 23,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 14,
             "name": "Student_014",
             "study_feild": "Applied Math",
             "faculty": "Computer",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 20,
+                    "grade": null
+                },
+                {
+                    "course_id": 2,
+                    "grade": null
+                },
+                {
+                    "course_id": 19,
+                    "grade": null
+                },
+                {
+                    "course_id": 38,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 15,
             "name": "Student_015",
             "study_feild": "Information Technology",
             "faculty": "Physics",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 17,
+                    "grade": null
+                },
+                {
+                    "course_id": 30,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 16,
             "name": "Student_016",
             "study_feild": "Computer Engineering",
             "faculty": "Engineering",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 1,
+                    "grade": null
+                },
+                {
+                    "course_id": 50,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 17,
             "name": "Student_017",
             "study_feild": "Software Engineering",
             "faculty": "Science",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 35,
+                    "grade": null
+                },
+                {
+                    "course_id": 39,
+                    "grade": null
+                },
+                {
+                    "course_id": 31,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 18,
             "name": "Student_018",
             "study_feild": "Data Science",
             "faculty": "Mathematics",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 43,
+                    "grade": null
+                },
+                {
+                    "course_id": 46,
+                    "grade": null
+                },
+                {
+                    "course_id": 23,
+                    "grade": null
+                },
+                {
+                    "course_id": 38,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 19,
             "name": "Student_019",
             "study_feild": "Applied Math",
             "faculty": "Computer",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 40,
+                    "grade": null
+                },
+                {
+                    "course_id": 35,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 20,
             "name": "Student_020",
             "study_feild": "Information Technology",
             "faculty": "Physics",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 40,
+                    "grade": null
+                },
+                {
+                    "course_id": 39,
+                    "grade": null
+                },
+                {
+                    "course_id": 32,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 21,
             "name": "Student_021",
             "study_feild": "Computer Engineering",
             "faculty": "Engineering",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 30,
+                    "grade": null
+                },
+                {
+                    "course_id": 3,
+                    "grade": null
+                },
+                {
+                    "course_id": 22,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 22,
             "name": "Student_022",
             "study_feild": "Software Engineering",
             "faculty": "Science",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 3,
+                    "grade": null
+                },
+                {
+                    "course_id": 34,
+                    "grade": null
+                },
+                {
+                    "course_id": 21,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 23,
             "name": "Student_023",
             "study_feild": "Data Science",
             "faculty": "Mathematics",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 12,
+                    "grade": null
+                },
+                {
+                    "course_id": 46,
+                    "grade": null
+                },
+                {
+                    "course_id": 26,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 24,
             "name": "Student_024",
             "study_feild": "Applied Math",
             "faculty": "Computer",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 35,
+                    "grade": null
+                },
+                {
+                    "course_id": 22,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 25,
             "name": "Student_025",
             "study_feild": "Information Technology",
             "faculty": "Physics",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 27,
+                    "grade": null
+                },
+                {
+                    "course_id": 8,
+                    "grade": null
+                },
+                {
+                    "course_id": 41,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 26,
             "name": "Student_026",
             "study_feild": "Computer Engineering",
             "faculty": "Engineering",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 44,
+                    "grade": null
+                },
+                {
+                    "course_id": 21,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 27,
             "name": "Student_027",
             "study_feild": "Software Engineering",
             "faculty": "Science",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 18,
+                    "grade": null
+                },
+                {
+                    "course_id": 21,
+                    "grade": null
+                },
+                {
+                    "course_id": 27,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 28,
             "name": "Student_028",
             "study_feild": "Data Science",
             "faculty": "Mathematics",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 33,
+                    "grade": null
+                },
+                {
+                    "course_id": 8,
+                    "grade": null
+                },
+                {
+                    "course_id": 27,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 29,
             "name": "Student_029",
             "study_feild": "Applied Math",
             "faculty": "Computer",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 14,
+                    "grade": null
+                },
+                {
+                    "course_id": 20,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 30,
             "name": "Student_030",
             "study_feild": "Information Technology",
             "faculty": "Physics",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 28,
+                    "grade": null
+                },
+                {
+                    "course_id": 10,
+                    "grade": null
+                },
+                {
+                    "course_id": 45,
+                    "grade": null
+                },
+                {
+                    "course_id": 18,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 31,
             "name": "Student_031",
             "study_feild": "Computer Engineering",
             "faculty": "Engineering",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 7,
+                    "grade": null
+                },
+                {
+                    "course_id": 1,
+                    "grade": null
+                },
+                {
+                    "course_id": 10,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 32,
             "name": "Student_032",
             "study_feild": "Software Engineering",
             "faculty": "Science",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 6,
+                    "grade": null
+                },
+                {
+                    "course_id": 33,
+                    "grade": null
+                },
+                {
+                    "course_id": 29,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 33,
             "name": "Student_033",
             "study_feild": "Data Science",
             "faculty": "Mathematics",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 12,
+                    "grade": null
+                },
+                {
+                    "course_id": 27,
+                    "grade": null
+                },
+                {
+                    "course_id": 20,
+                    "grade": null
+                },
+                {
+                    "course_id": 8,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 34,
             "name": "Student_034",
             "study_feild": "Applied Math",
             "faculty": "Computer",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 39,
+                    "grade": null
+                },
+                {
+                    "course_id": 44,
+                    "grade": null
+                },
+                {
+                    "course_id": 42,
+                    "grade": null
+                },
+                {
+                    "course_id": 13,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 35,
             "name": "Student_035",
             "study_feild": "Information Technology",
             "faculty": "Physics",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 18,
+                    "grade": null
+                },
+                {
+                    "course_id": 3,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 36,
             "name": "Student_036",
             "study_feild": "Computer Engineering",
             "faculty": "Engineering",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 10,
+                    "grade": null
+                },
+                {
+                    "course_id": 44,
+                    "grade": null
+                },
+                {
+                    "course_id": 21,
+                    "grade": null
+                },
+                {
+                    "course_id": 46,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 37,
             "name": "Student_037",
             "study_feild": "Software Engineering",
             "faculty": "Science",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 49,
+                    "grade": null
+                },
+                {
+                    "course_id": 45,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 38,
             "name": "Student_038",
             "study_feild": "Data Science",
             "faculty": "Mathematics",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 29,
+                    "grade": null
+                },
+                {
+                    "course_id": 47,
+                    "grade": null
+                },
+                {
+                    "course_id": 49,
+                    "grade": null
+                },
+                {
+                    "course_id": 36,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 39,
             "name": "Student_039",
             "study_feild": "Applied Math",
             "faculty": "Computer",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 43,
+                    "grade": null
+                },
+                {
+                    "course_id": 35,
+                    "grade": null
+                },
+                {
+                    "course_id": 30,
+                    "grade": null
+                },
+                {
+                    "course_id": 41,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 40,
             "name": "Student_040",
             "study_feild": "Information Technology",
             "faculty": "Physics",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 41,
+                    "grade": null
+                },
+                {
+                    "course_id": 48,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 41,
             "name": "Student_041",
             "study_feild": "Computer Engineering",
             "faculty": "Engineering",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 25,
+                    "grade": null
+                },
+                {
+                    "course_id": 49,
+                    "grade": null
+                },
+                {
+                    "course_id": 41,
+                    "grade": null
+                },
+                {
+                    "course_id": 14,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 42,
             "name": "Student_042",
             "study_feild": "Software Engineering",
             "faculty": "Science",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 45,
+                    "grade": null
+                },
+                {
+                    "course_id": 7,
+                    "grade": null
+                },
+                {
+                    "course_id": 4,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 43,
             "name": "Student_043",
             "study_feild": "Data Science",
             "faculty": "Mathematics",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 36,
+                    "grade": null
+                },
+                {
+                    "course_id": 20,
+                    "grade": null
+                },
+                {
+                    "course_id": 7,
+                    "grade": null
+                },
+                {
+                    "course_id": 15,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 44,
             "name": "Student_044",
             "study_feild": "Applied Math",
             "faculty": "Computer",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 31,
+                    "grade": null
+                },
+                {
+                    "course_id": 14,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 45,
             "name": "Student_045",
             "study_feild": "Information Technology",
             "faculty": "Physics",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 11,
+                    "grade": null
+                },
+                {
+                    "course_id": 15,
+                    "grade": null
+                },
+                {
+                    "course_id": 19,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 46,
             "name": "Student_046",
             "study_feild": "Computer Engineering",
             "faculty": "Engineering",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 3,
+                    "grade": null
+                },
+                {
+                    "course_id": 20,
+                    "grade": null
+                },
+                {
+                    "course_id": 9,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 47,
             "name": "Student_047",
             "study_feild": "Software Engineering",
             "faculty": "Science",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 26,
+                    "grade": null
+                },
+                {
+                    "course_id": 23,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 48,
             "name": "Student_048",
             "study_feild": "Data Science",
             "faculty": "Mathematics",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 34,
+                    "grade": null
+                },
+                {
+                    "course_id": 48,
+                    "grade": null
+                },
+                {
+                    "course_id": 44,
+                    "grade": null
+                },
+                {
+                    "course_id": 32,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 49,
             "name": "Student_049",
             "study_feild": "Applied Math",
             "faculty": "Computer",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 32,
+                    "grade": null
+                },
+                {
+                    "course_id": 2,
+                    "grade": null
+                },
+                {
+                    "course_id": 34,
+                    "grade": null
+                },
+                {
+                    "course_id": 9,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 50,
             "name": "Student_050",
             "study_feild": "Information Technology",
             "faculty": "Physics",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 24,
+                    "grade": null
+                },
+                {
+                    "course_id": 31,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 51,
             "name": "Student_051",
             "study_feild": "Computer Engineering",
             "faculty": "Engineering",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 18,
+                    "grade": null
+                },
+                {
+                    "course_id": 31,
+                    "grade": null
+                },
+                {
+                    "course_id": 50,
+                    "grade": null
+                },
+                {
+                    "course_id": 23,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 52,
             "name": "Student_052",
             "study_feild": "Software Engineering",
             "faculty": "Science",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 9,
+                    "grade": null
+                },
+                {
+                    "course_id": 27,
+                    "grade": null
+                },
+                {
+                    "course_id": 46,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 53,
             "name": "Student_053",
             "study_feild": "Data Science",
             "faculty": "Mathematics",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 21,
+                    "grade": null
+                },
+                {
+                    "course_id": 41,
+                    "grade": null
+                },
+                {
+                    "course_id": 33,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 54,
             "name": "Student_054",
             "study_feild": "Applied Math",
             "faculty": "Computer",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 28,
+                    "grade": null
+                },
+                {
+                    "course_id": 35,
+                    "grade": null
+                },
+                {
+                    "course_id": 24,
+                    "grade": null
+                },
+                {
+                    "course_id": 4,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 55,
             "name": "Student_055",
             "study_feild": "Information Technology",
             "faculty": "Physics",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 20,
+                    "grade": null
+                },
+                {
+                    "course_id": 17,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 56,
             "name": "Student_056",
             "study_feild": "Computer Engineering",
             "faculty": "Engineering",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 46,
+                    "grade": null
+                },
+                {
+                    "course_id": 24,
+                    "grade": null
+                },
+                {
+                    "course_id": 8,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 57,
             "name": "Student_057",
             "study_feild": "Software Engineering",
             "faculty": "Science",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 22,
+                    "grade": null
+                },
+                {
+                    "course_id": 47,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 58,
             "name": "Student_058",
             "study_feild": "Data Science",
             "faculty": "Mathematics",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 42,
+                    "grade": null
+                },
+                {
+                    "course_id": 20,
+                    "grade": null
+                },
+                {
+                    "course_id": 46,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 59,
             "name": "Student_059",
             "study_feild": "Applied Math",
             "faculty": "Computer",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 5,
+                    "grade": null
+                },
+                {
+                    "course_id": 36,
+                    "grade": null
+                },
+                {
+                    "course_id": 38,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 60,
             "name": "Student_060",
             "study_feild": "Information Technology",
             "faculty": "Physics",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 49,
+                    "grade": null
+                },
+                {
+                    "course_id": 50,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 61,
             "name": "Student_061",
             "study_feild": "Computer Engineering",
             "faculty": "Engineering",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 10,
+                    "grade": null
+                },
+                {
+                    "course_id": 9,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 62,
             "name": "Student_062",
             "study_feild": "Software Engineering",
             "faculty": "Science",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 9,
+                    "grade": null
+                },
+                {
+                    "course_id": 22,
+                    "grade": null
+                },
+                {
+                    "course_id": 30,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 63,
             "name": "Student_063",
             "study_feild": "Data Science",
             "faculty": "Mathematics",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 5,
+                    "grade": null
+                },
+                {
+                    "course_id": 14,
+                    "grade": null
+                },
+                {
+                    "course_id": 38,
+                    "grade": null
+                },
+                {
+                    "course_id": 35,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 64,
             "name": "Student_064",
             "study_feild": "Applied Math",
             "faculty": "Computer",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 34,
+                    "grade": null
+                },
+                {
+                    "course_id": 35,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 65,
             "name": "Student_065",
             "study_feild": "Information Technology",
             "faculty": "Physics",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 30,
+                    "grade": null
+                },
+                {
+                    "course_id": 23,
+                    "grade": null
+                },
+                {
+                    "course_id": 24,
+                    "grade": null
+                },
+                {
+                    "course_id": 38,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 66,
             "name": "Student_066",
             "study_feild": "Computer Engineering",
             "faculty": "Engineering",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 15,
+                    "grade": null
+                },
+                {
+                    "course_id": 32,
+                    "grade": null
+                },
+                {
+                    "course_id": 22,
+                    "grade": null
+                },
+                {
+                    "course_id": 6,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 67,
             "name": "Student_067",
             "study_feild": "Software Engineering",
             "faculty": "Science",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 27,
+                    "grade": null
+                },
+                {
+                    "course_id": 31,
+                    "grade": null
+                },
+                {
+                    "course_id": 40,
+                    "grade": null
+                },
+                {
+                    "course_id": 50,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 68,
             "name": "Student_068",
             "study_feild": "Data Science",
             "faculty": "Mathematics",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 44,
+                    "grade": null
+                },
+                {
+                    "course_id": 43,
+                    "grade": null
+                },
+                {
+                    "course_id": 35,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 69,
             "name": "Student_069",
             "study_feild": "Applied Math",
             "faculty": "Computer",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 27,
+                    "grade": null
+                },
+                {
+                    "course_id": 49,
+                    "grade": null
+                },
+                {
+                    "course_id": 47,
+                    "grade": null
+                },
+                {
+                    "course_id": 39,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 70,
             "name": "Student_070",
             "study_feild": "Information Technology",
             "faculty": "Physics",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 14,
+                    "grade": null
+                },
+                {
+                    "course_id": 23,
+                    "grade": null
+                },
+                {
+                    "course_id": 31,
+                    "grade": null
+                },
+                {
+                    "course_id": 34,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 71,
             "name": "Student_071",
             "study_feild": "Computer Engineering",
             "faculty": "Engineering",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 46,
+                    "grade": null
+                },
+                {
+                    "course_id": 37,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 72,
             "name": "Student_072",
             "study_feild": "Software Engineering",
             "faculty": "Science",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 26,
+                    "grade": null
+                },
+                {
+                    "course_id": 23,
+                    "grade": null
+                },
+                {
+                    "course_id": 36,
+                    "grade": null
+                },
+                {
+                    "course_id": 40,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 73,
             "name": "Student_073",
             "study_feild": "Data Science",
             "faculty": "Mathematics",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 3,
+                    "grade": null
+                },
+                {
+                    "course_id": 50,
+                    "grade": null
+                },
+                {
+                    "course_id": 32,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 74,
             "name": "Student_074",
             "study_feild": "Applied Math",
             "faculty": "Computer",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 5,
+                    "grade": null
+                },
+                {
+                    "course_id": 10,
+                    "grade": null
+                },
+                {
+                    "course_id": 33,
+                    "grade": null
+                },
+                {
+                    "course_id": 43,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 75,
             "name": "Student_075",
             "study_feild": "Information Technology",
             "faculty": "Physics",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 29,
+                    "grade": null
+                },
+                {
+                    "course_id": 35,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 76,
             "name": "Student_076",
             "study_feild": "Computer Engineering",
             "faculty": "Engineering",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 2,
+                    "grade": null
+                },
+                {
+                    "course_id": 28,
+                    "grade": null
+                },
+                {
+                    "course_id": 31,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 77,
             "name": "Student_077",
             "study_feild": "Software Engineering",
             "faculty": "Science",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 23,
+                    "grade": null
+                },
+                {
+                    "course_id": 42,
+                    "grade": null
+                },
+                {
+                    "course_id": 18,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 78,
             "name": "Student_078",
             "study_feild": "Data Science",
             "faculty": "Mathematics",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 38,
+                    "grade": null
+                },
+                {
+                    "course_id": 26,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 79,
             "name": "Student_079",
             "study_feild": "Applied Math",
             "faculty": "Computer",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 46,
+                    "grade": null
+                },
+                {
+                    "course_id": 50,
+                    "grade": null
+                },
+                {
+                    "course_id": 23,
+                    "grade": null
+                },
+                {
+                    "course_id": 47,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 80,
             "name": "Student_080",
             "study_feild": "Information Technology",
             "faculty": "Physics",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 38,
+                    "grade": null
+                },
+                {
+                    "course_id": 28,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 81,
             "name": "Student_081",
             "study_feild": "Computer Engineering",
             "faculty": "Engineering",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 30,
+                    "grade": null
+                },
+                {
+                    "course_id": 39,
+                    "grade": null
+                },
+                {
+                    "course_id": 7,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 82,
             "name": "Student_082",
             "study_feild": "Software Engineering",
             "faculty": "Science",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 40,
+                    "grade": null
+                },
+                {
+                    "course_id": 23,
+                    "grade": null
+                },
+                {
+                    "course_id": 2,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 83,
             "name": "Student_083",
             "study_feild": "Data Science",
             "faculty": "Mathematics",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 3,
+                    "grade": null
+                },
+                {
+                    "course_id": 31,
+                    "grade": null
+                },
+                {
+                    "course_id": 10,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 84,
             "name": "Student_084",
             "study_feild": "Applied Math",
             "faculty": "Computer",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 41,
+                    "grade": null
+                },
+                {
+                    "course_id": 1,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 85,
             "name": "Student_085",
             "study_feild": "Information Technology",
             "faculty": "Physics",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 39,
+                    "grade": null
+                },
+                {
+                    "course_id": 5,
+                    "grade": null
+                },
+                {
+                    "course_id": 29,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 86,
             "name": "Student_086",
             "study_feild": "Computer Engineering",
             "faculty": "Engineering",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 13,
+                    "grade": null
+                },
+                {
+                    "course_id": 26,
+                    "grade": null
+                },
+                {
+                    "course_id": 50,
+                    "grade": null
+                },
+                {
+                    "course_id": 34,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 87,
             "name": "Student_087",
             "study_feild": "Software Engineering",
             "faculty": "Science",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 7,
+                    "grade": null
+                },
+                {
+                    "course_id": 17,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 88,
             "name": "Student_088",
             "study_feild": "Data Science",
             "faculty": "Mathematics",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 44,
+                    "grade": null
+                },
+                {
+                    "course_id": 1,
+                    "grade": null
+                },
+                {
+                    "course_id": 5,
+                    "grade": null
+                },
+                {
+                    "course_id": 24,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 89,
             "name": "Student_089",
             "study_feild": "Applied Math",
             "faculty": "Computer",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 44,
+                    "grade": null
+                },
+                {
+                    "course_id": 35,
+                    "grade": null
+                },
+                {
+                    "course_id": 3,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 90,
             "name": "Student_090",
             "study_feild": "Information Technology",
             "faculty": "Physics",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 8,
+                    "grade": null
+                },
+                {
+                    "course_id": 20,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 91,
             "name": "Student_091",
             "study_feild": "Computer Engineering",
             "faculty": "Engineering",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 23,
+                    "grade": null
+                },
+                {
+                    "course_id": 12,
+                    "grade": null
+                },
+                {
+                    "course_id": 21,
+                    "grade": null
+                },
+                {
+                    "course_id": 43,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 92,
             "name": "Student_092",
             "study_feild": "Software Engineering",
             "faculty": "Science",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 34,
+                    "grade": null
+                },
+                {
+                    "course_id": 49,
+                    "grade": null
+                },
+                {
+                    "course_id": 47,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 93,
             "name": "Student_093",
             "study_feild": "Data Science",
             "faculty": "Mathematics",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 41,
+                    "grade": null
+                },
+                {
+                    "course_id": 37,
+                    "grade": null
+                },
+                {
+                    "course_id": 39,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 94,
             "name": "Student_094",
             "study_feild": "Applied Math",
             "faculty": "Computer",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 24,
+                    "grade": null
+                },
+                {
+                    "course_id": 37,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 95,
             "name": "Student_095",
             "study_feild": "Information Technology",
             "faculty": "Physics",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 18,
+                    "grade": null
+                },
+                {
+                    "course_id": 35,
+                    "grade": null
+                },
+                {
+                    "course_id": 37,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 96,
             "name": "Student_096",
             "study_feild": "Computer Engineering",
             "faculty": "Engineering",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 15,
+                    "grade": null
+                },
+                {
+                    "course_id": 6,
+                    "grade": null
+                },
+                {
+                    "course_id": 35,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 97,
             "name": "Student_097",
             "study_feild": "Software Engineering",
             "faculty": "Science",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 11,
+                    "grade": null
+                },
+                {
+                    "course_id": 29,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 98,
             "name": "Student_098",
             "study_feild": "Data Science",
             "faculty": "Mathematics",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 1,
+                    "grade": null
+                },
+                {
+                    "course_id": 13,
+                    "grade": null
+                },
+                {
+                    "course_id": 4,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 99,
             "name": "Student_099",
             "study_feild": "Applied Math",
             "faculty": "Computer",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 12,
+                    "grade": null
+                },
+                {
+                    "course_id": 44,
+                    "grade": null
+                }
+            ]
         },
         {
             "id": 100,
             "name": "Student_100",
             "study_feild": "Information Technology",
             "faculty": "Physics",
-            "courses": []
+            "courses": [
+                {
+                    "course_id": 38,
+                    "grade": null
+                },
+                {
+                    "course_id": 47,
+                    "grade": null
+                },
+                {
+                    "course_id": 30,
+                    "grade": null
+                },
+                {
+                    "course_id": 28,
+                    "grade": null
+                }
+            ]
         }
     ]
 }
